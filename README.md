@@ -1,2 +1,2 @@
 # rsschool-cv
-study rs-school
+[cv](https://yauheni5.github.io/rsschool-cv/cv.md)
